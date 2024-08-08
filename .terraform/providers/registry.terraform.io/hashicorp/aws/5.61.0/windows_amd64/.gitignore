@@ -1,0 +1,26 @@
+# Terraform state files
+.tfstate
+.tfstate.
+
+# Terraform plan files
+.tfplan
+
+# Terraform workspace files
+.tfvars
+.auto.tfvars
+
+# Provider credentials
+credentials.yml
+access_tokens.env
+
+# Compiled binaries
+bin/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Temporary and generated files
+*.swp
+*.swo
+logs/
